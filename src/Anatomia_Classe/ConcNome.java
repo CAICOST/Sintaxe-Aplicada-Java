@@ -1,4 +1,6 @@
-public class MinhaClasse {
+package Anatomia_Classe;
+
+public class ConcNome {
 
     public static void main (String [] orgs) {
 
@@ -14,4 +16,5 @@ public class MinhaClasse {
         return "Resultado do método "  +  primeiroNome.concat(" ").concat(segundoNome);
 
     }
+
 }
